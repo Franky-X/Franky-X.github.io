@@ -2,6 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Patents"
+    url: /patents/
+    
+  - title: "Awards"
+    url: /awards/
 
   - title: "Talks"
     url: /talks/    
