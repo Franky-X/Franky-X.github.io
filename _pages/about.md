@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! Welcome to my site!\n
-I will receive the B.Eng. degree in Telecommunications Engineering from Soochow University, Soochow, China in 2023.In the very near future I am going to work toward the Ph.D. degree in Information and Communication Engineering with Shanghai Jiao Tong University, Shanghai, China.
+Hello everyone! Welcome to my site!<br>
+I will receive the B.Eng. degree in Telecommunications Engineering from Soochow University, Soochow, China in 2023.In the very near future I am going to work toward the Ph.D. degree in Information and Communication Engineering with Shanghai Jiao Tong University, Shanghai, China.<br>
 My research interests include sensor fusion, multi-sensor sychronization, and optical wireless communication and positioning.
