@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "熊超然"
+title                    : "熊超然（Chaoran Xiong）"
 title_separator          : "-"
-name                     : &name "熊超然"
+name                     : &name "熊超然（Chaoran Xiong）"
 description              : &description "personal description"
 url                      : https://Franky-X.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "熊超然"
+  name             : "熊超然（Chaoran Xiong）"
   avatar           : "profile.png"
   bio              : "Welcome to my personal site!"
   location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : crxiongfrank@stu.suda.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
