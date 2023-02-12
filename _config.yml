@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "熊超然（Chaoran Xiong）"
+  name             : "熊超然\nChaoran Xiong"
   avatar           : "profile.png"
   bio              : "Welcome to my personal site!"
   location         : "China"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.cn/incareer/in/%E8%B6%85%E7%84%B6-%E7%86%8A-b848481b4"
+  linkedin         : "https://www.linkedin.cn/incareer/in/超然-熊-b848481b4" 
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
