@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chaoran Xiong's Site"
+title: "Chaoran Xiong"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
