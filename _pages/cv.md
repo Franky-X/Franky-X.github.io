@@ -40,6 +40,12 @@ Patents
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Awards
+======
+  <ul>{% for post in site.awards %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
