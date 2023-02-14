@@ -16,16 +16,26 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Multi-sensor Sychronization System Design                                                             
+* Hardware Skills
+  * FPGA Programming
+  * Circuit Design
+* Software Skills
+  * C/C++
+  * Matlab
+  * Java
+  * QT GUI Development
+  * ROS 
 
 Publications
 ======
   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Patents
+======
+  <ul>{% for post in site.patents %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -35,12 +45,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
