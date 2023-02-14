@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* High School Education, Jinling High School, Nanjing, 2019
+* High School Education in Nanjing(China), Jinling High School, 2019
 * B.S. in Soochow(China), Soochow University, 2023
 * Ph.D in Shanghai(China), Shanghai Jiao Tong University, 2028 (expected)
 
