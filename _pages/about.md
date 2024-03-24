@@ -13,7 +13,7 @@ I received the B.Eng. degree in Telecommunications Engineering from Soochow Univ
 Now I am working toward the Ph.D. degree in Information and Communication Engineering with Shanghai Jiao Tong University, Shanghai, China.<br>
 My research interests include sensor fusion and embodied navigation.
 
-Featured Research Highlights
+Research Highlights
 ======
 
 TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO
