@@ -15,3 +15,6 @@ My research interests include sensor fusion and embodied navigation.
 
 Featured Research Highlights
 ======
+
+TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO
+=====
