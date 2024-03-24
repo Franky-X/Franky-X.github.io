@@ -18,3 +18,4 @@ Research Highlights
 
 TON-VIO: Online Time Offset Modeling Networks for Robust Temporal Alignment in High Dynamic Motion VIO
 -----
+paperurl: 'https://www.researchgate.net/publication/379079851_TON-VIO_Online_Time_Offset_Modeling_Networks_for_Robust_Temporal_Alignment_in_High_Dynamic_Motion_VIO'
