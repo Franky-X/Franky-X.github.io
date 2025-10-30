@@ -86,9 +86,9 @@ author:
   location         : "China"
 #  employer         : "https://faculty.sjtu.edu.cn/peiling/zh_CN/index.htm"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : crxiongfrank@stu.suda.edu.cn
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=OhtCddQAAAAJ&hl=zh-CN"
+  email            : sjtu4742986@sjtu.edu.cn
+  researchgate     : "https://www.researchgate.net/profile/Chaoran-Xiong?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-#  github           : "Franky-X"
+  github           : "https://github.com/Franky-X"
   google_plus      :
   keybase          :
   instagram        :
