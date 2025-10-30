@@ -13,6 +13,8 @@ I received the B.Eng. degree in Telecommunications Engineering from Soochow Univ
 Now I am working toward the Ph.D. degree in Information and Communication Engineering with Shanghai Jiao Tong University, Shanghai, China.<br>
 My research interests include sensor calibration, efficient SLAM and visual language navigation for legged robots.
 
-Research Highlights
+Recent News
 ======
-
+2025-10: Two papers has been presented on IROS 2025 Hangzhou. "THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks" and
+A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots<br>
+2025-06: My undergraduate design TON-VIO has been accepted to IEEE Transactions on Instrumentation and Measurement. "TON-VIO: Online Temporal Calibration Networks Learning On-the-fly in Fast Motion VIO"
