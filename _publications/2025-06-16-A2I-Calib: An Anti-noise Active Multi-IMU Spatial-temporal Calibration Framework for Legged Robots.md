@@ -1,1 +1,11 @@
-
+---
+title: "A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots"
+collection: publications
+permalink: /publication/2025-06-16-A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots
+excerpt: ' In this paper, we propose A2I-Calib, an anti-noise active multi-IMU calibration framework enabling autonomous spatial-temporal calibration for arbitrary foot-mounted IMUs. '
+date: 2025-06
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+paperurl: 'https://arxiv.org/abs/2503.06844'
+# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
+Recently, multi-node inertial measurement unit (IMU)-based odometry for legged robots has gained attention due to its cost-effectiveness, power efficiency, and high accuracy. However, the spatial and temporal misalignment between foot-end motion derived from forward kinematics and foot IMU measurements can introduce inconsistent constraints, resulting in odometry drift. Therefore, accurate spatial-temporal calibration is crucial for the multi-IMU systems. Although existing multi-IMU calibration methods have addressed passive single-rigid-body sensor calibration, they are inadequate for legged systems. This is due to the insufficient excitation from traditional gaits for calibration, and enlarged sensitivity to IMU noise during kinematic chain transformations. To address these challenges, we propose A2I-Calib, an anti-noise active multi-IMU calibration framework enabling autonomous spatial-temporal calibration for arbitrary foot-mounted IMUs. Our A2I-Calib includes: 1) an anti-noise trajectory generator leveraging a proposed basis function selection theorem to minimize the condition number in correlation analysis, thus reducing noise sensitivity, and 2) a reinforcement learning (RL)-based controller that ensures robust execution of calibration motions. Furthermore, AI-Calib is validated on simulation and real-world quadruped robot platforms with various multi-IMU settings, which demonstrates a significant reduction in noise sensitivity and calibration errors, thereby improving the overall multi-IMU odometry performance.
