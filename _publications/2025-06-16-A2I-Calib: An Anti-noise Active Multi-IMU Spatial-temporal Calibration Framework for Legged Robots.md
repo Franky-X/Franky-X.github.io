@@ -1,7 +1,7 @@
 ---
 title: "A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots"
 collection: publications
-permalink: /publication/2025-06-16-A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots
+# permalink: /publication/2025-06-16-A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots
 excerpt: ' In this paper, we propose A2I-Calib, an anti-noise active multi-IMU calibration framework enabling autonomous spatial-temporal calibration for arbitrary foot-mounted IMUs. '
 date: 2025-06
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
