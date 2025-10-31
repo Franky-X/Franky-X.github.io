@@ -3,7 +3,7 @@ title: "A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration F
 collection: publications
 # permalink: /publication/2025-06-16-A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots
 excerpt: ' In this paper, we propose A2I-Calib, an anti-noise active multi-IMU calibration framework enabling autonomous spatial-temporal calibration for arbitrary foot-mounted IMUs. '
-date: 2025-06
+date: 2025-06-16
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://arxiv.org/abs/2503.06844'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
